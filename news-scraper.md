@@ -1,4 +1,4 @@
-# BBC Most Popular News Scrapper
+# BBC Most Popular News Scraper
 
 Build a console application that scrapes the [BBC news homepage](http://www.bbc.co.uk/news/)
 and returns a JSON array of the most popular shared articles table.
